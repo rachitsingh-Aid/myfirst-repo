@@ -1,3 +1,3 @@
 # myfirst-repo
 My first git repository.
-author - shradha Khapra
+author - Rachit singh garia
